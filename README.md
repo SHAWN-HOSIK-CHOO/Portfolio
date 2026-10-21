@@ -32,19 +32,21 @@
 ### Crash
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/535b0ad8-676e-4085-9060-1d9765f0719d" />
 <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/f24ed6e0-8710-4c61-a79c-de88406a5dc4" />
+<img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/a56fd06b-974b-4344-842d-3e7d4ac4af8e" />
 
-- **한 줄 소개:** 스케이트보드를 타고 속도와 질량을 키워 상대를 격파하는 2인 실시간 멀티플레이 결투 게임
+- **한 줄 소개:** 스케이트보드를 타고 속도와 질량을 키워 상대를 격파하고 태그볼을 쟁탈하는 2인 실시간 멀티플레이 결투 게임
 - **장르 / 플랫폼:** 2인 온라인 배틀 액션 / PC
 - **사용 엔진 / 기술:** Unity 6, Unity Relay, Unity NGO
 - **개발 인원:** 2인
-- **담당 역할:** 게임플레이 기획 / UI / 모델링 / 클라이언트 및 서버 프로그래밍
+- **담당 역할:** 게임 기획 / UI / 모델링 / 클라이언트 및 서버 프로그래밍
 - **주요 특징:**
   - **속도 & 질량 기반 물리 충돌:** 더 빠르게, 더 무거운 상태에서 부딪힐수록 상대에게 강한 데미지와 먼 거리 넉백(Knockback) 부여
-  - **전략적 아이템 파밍:** 필드 아이템을 획득해 질량 증가, 속도 증가, 체력 회복 등 능력을 강화
-  - **승리 조건:** 상대를 필드 밖으로 날려버리거나 체력을 0으로 감소시킬 시 승리
-  - **실시간 네트워크:** Unity Relay 기반 2인 대전 환경 구축
+  - **전략적 아이템 파밍:** 필드 아이템을 획득해 질량 증가, 속도 증가, 체력 회복 등 능력을 강화하고 태그볼 수집
+  - **태그볼 강탈:** 상대를 필드 밖으로 밀쳐내거나 체력을 0으로 만들면 상대가 가진 태그볼의 50%를 뺏어오는 역전 요소
+  - **승리 조건:** 제한 시간 종료 시점 기준, 더 많은 태그볼을 소지한 플레이어가 최종 승리
+  - **실시간 네트워크:** Unity Relay 및 Unity NGO 기반 2인 대전 환경 구축
 
-**[상세 게임 개발 문서 (GDD & Tech Spec)](./docs/2025_crash_gdd.md)**  
+**[게임 레포지토리](https://github.com/SHAWN-HOSIK-CHOO/SwingKickThrow)**  
 
 ---
 
