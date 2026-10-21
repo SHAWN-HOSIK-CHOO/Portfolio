@@ -52,18 +52,16 @@
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/998faaa7-da05-459a-b68f-d7ecba188830" />
 <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/78fdf553-a98a-4097-8537-fc8a0135f826" />
 
-- **한 줄 소개:** Teachable Machine 학습 모델과 Unity AR을 연동해 미술 작품을 실시간으로 인식하고 정보를 제공하는 모바일 AR 앱
+- **한 줄 소개:** Teachable Machine 으로 학습시킨 Tensorflow Lite 모델과 Unity AR을 연동해 미술 작품을 실시간으로 인식하고 정보를 제공하는 모바일 AR 앱
 - **장르 / 플랫폼:** AR 교육용 모바일 앱 / Android (타깃 기기: Galaxy S10)
 - **사용 엔진 / 기술:** Unity, Unity AR Foundation, Teachable Machine (Machine Learning Model)
 - **개발 기간:** 1학기 (미술사 강의 연계 학기 프로젝트)
-- **담당 역할:** [담당 역할 입력]
+- **개발 인원:** 1인
 - **주요 특징:**
-  - **머신러닝 이미지 인식:** 수업 시간에 배운 미술 작품 데이터를 Teachable Machine으로 학습시켜 유니티 엔진과 실시간 연동
+  - **머신러닝 이미지 인식:** 수업 시간에 배운 미술 작품 데이터를 크롤링 하고, Teachable Machine으로 학습시켜 유니티 엔진과 실시간 연동
   - **유사도 기반 캐러샐 UI:** 셔터 클릭 시 ML 모델이 추론한 가장 비슷한 작품들을 확률 순으로 캐러샐(Carousel) 형태 표시
   - **인터랙티브 작품 설명:** 캐러샐의 작품 카드를 선택하면 해당 미술 작품의 상세한 해설 정보 출력
-
-**[상세 개발 문서 & 프로젝트 보고서](./docs/2025_art_ar_gdd.md)**  
-**[프로젝트 Repository 바로가기](#)**
+ 
 
 </details>
 
@@ -88,8 +86,8 @@
   - **던전 진행 및 보스전:** 층별 게이트키퍼 처치 및 포털 탐색으로 고층 진입, 총 4개 던전의 정상에 위치한 보스를 처치하는 명확한 클리어 구조
   - **타이밍 기반 랭크 전투 시스템:** 공격 시 기를 모으는 원형 이펙트 타임에 맞춰 정교하게 입력할 경우 D~S 까지 랭크 상승, S 랭크 달성 시 강력한 일반 공격 발동
 
-**[게임 관련 문서](https://github.com/SHAWN-HOSIK-CHOO/Portfolio/blob/main/Resources/EscapeTheWonderland.md)**  
 **[시연 영상 (YouTube)](https://youtu.be/sKflh7oV4LU)**
+**[게임 관련 문서](https://github.com/SHAWN-HOSIK-CHOO/Portfolio/blob/main/Resources/EscapeTheWonderland.md)**  
 
 ---
 
