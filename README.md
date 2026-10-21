@@ -29,13 +29,13 @@
 
 ### Crash
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/535b0ad8-676e-4085-9060-1d9765f0719d" />
-<img width="400" height="233" alt="Image" src="https://github.com/user-attachments/assets/f24ed6e0-8710-4c61-a79c-de88406a5dc4" />
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/f24ed6e0-8710-4c61-a79c-de88406a5dc4" />
 
 * **한 줄 소개:** 스케이트보드를 타고 속도와 질량을 키워 상대를 격파하는 2인 실시간 멀티플레이 결투 게임
 * **장르 / 플랫폼:** 2인 온라인 배틀 액션 / PC
 * **사용 엔진 / 기술:** Unity 6, Unity Relay
 * **개발 인원:** 2인
-* **담당 역할:** [예: 물리 충돌 시스템 구현, Unity Relay 네트워크 동기화, 게임플레이 기획]
+* **담당 역할:** 게임플레이 기획 / UI / 모델링 / 클라이언트 및 서버 프로그래밍
 * **주요 특징:**
   - **속도 & 질량 기반 물리 충돌:** 더 빠르게, 더 무거운 상태에서 부딪힐수록 상대에게 강한 데미지와 먼 거리 넉백(Knockback) 부여
   - **전략적 아이템 파밍:** 필드 아이템을 획득해 질량 증가, 속도 증가, 체력 회복 등 능력을 강화
