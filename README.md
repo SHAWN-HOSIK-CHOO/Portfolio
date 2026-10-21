@@ -103,7 +103,7 @@
   - **청각 기반 상황 판단 (Spatial Audio):** 신호등이 고장 난 횡단보도 등 제한된 시야 조건에서 차량 소리만으로 정차 여부를 판별하도록 유도
   - **촉각 피드백 (Haptic Feedback):** 컨트롤러 진동 반응으로 점자 블록 보행 감각을 직접 전달
 
-**[프로젝트 보고서]([./docs/2024_vrrepo_gdd.md](https://github.com/SHAWN-HOSIK-CHOO/VR_Repo/tree/main))**  
+**[프로젝트 보고서]((https://github.com/SHAWN-HOSIK-CHOO/VR_Repo/tree/main))**  
 **[시연 영상 (YouTube)](https://youtu.be/yPFpLxnLda4)**
 
 </details>
