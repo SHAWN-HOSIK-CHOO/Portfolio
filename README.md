@@ -85,7 +85,7 @@
   - **던전 진행 및 보스전:** 층별 게이트키퍼 처치 및 포털 탐색으로 고층 진입, 총 4개 던전의 정상에 위치한 보스를 처치하는 명확한 클리어 구조
   - **타이밍 기반 랭크 전투 시스템:** 공격 시 기를 모으는 원형 이펙트 타임에 맞춰 정교하게 입력할 경우 D~S 까지 랭크 상승, S 랭크 달성 시 강력한 일반 공격 발동
 
-**[상세 게임 개발 문서 (GDD & Tech Spec)](./docs/2024_wonderland_gdd.md)**
+**[상세 게임 개발 문서 (GDD & Tech Spec)](./docs/2024_wonderland_gdd.md)**  
 **[시연 영상 (YouTube)](https://youtu.be/sKflh7oV4LU)**
 
 </details>
