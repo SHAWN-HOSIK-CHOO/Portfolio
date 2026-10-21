@@ -48,7 +48,7 @@
 
 ### AR 도슨트 카메라 (Art AR Camera)
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/998faaa7-da05-459a-b68f-d7ecba188830" />
-<img width="300" height="650" alt="Image" src="https://github.com/user-attachments/assets/78fdf553-a98a-4097-8537-fc8a0135f826" />
+<img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/78fdf553-a98a-4097-8537-fc8a0135f826" />
 
 * **한 줄 소개:** Teachable Machine 학습 모델과 Unity AR을 연동해 미술 작품을 실시간으로 인식하고 정보를 제공하는 모바일 AR 앱
 * **장르 / 플랫폼:** AR 교육용 모바일 앱 / Android (타깃 기기: Galaxy S10)
