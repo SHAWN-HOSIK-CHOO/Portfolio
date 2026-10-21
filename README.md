@@ -1,5 +1,7 @@
 # Portfolio
 
+게임개발을 즐기고 게임화(Gamify)로 일상을 즐겁게 바꾸는 것에 관심이 많습니다.
+
 ---
 
 <details open>
@@ -87,6 +89,22 @@
 
 **[상세 게임 개발 문서 (GDD & Tech Spec)](./docs/2024_wonderland_gdd.md)**  
 **[시연 영상 (YouTube)](https://youtu.be/sKflh7oV4LU)**
+
+### VRRepo
+<img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/c2266d6b-9483-40a0-8ed8-af5ca3d245a9" />
+<img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/8897392f-1149-45ee-aa24-c23553414cd5" />
+
+* **한 줄 소개:** 시각장애인의 도시 인프라 이용 제약을 가상현실 환경에서 간접 경험하도록 설계된 게이미피케이션 VR 시뮬레이션
+* **장르 / 플랫폼:** VR 체험 시뮬레이션 / Meta Quest 2
+* **사용 엔진 / 기술:** Unity, Meta Quest SDK, Haptic Feedback, Spatial Audio
+* **담당 역할:** 퀘스트 및 시스템 기획, 프로그래밍
+* **주요 특징:**
+  - **체험형 게이미피케이션:** 제한 시간 내 이동, 보행자 충돌 회피 등 목표 제시를 통해 높은 몰입감 형성
+  - **청각 기반 상황 판단 (Spatial Audio):** 신호등이 고장 난 횡단보도 등 제한된 시야 조건에서 차량 소리만으로 정차 여부를 판별하도록 유도
+  - **촉각 피드백 (Haptic Feedback):** 컨트롤러 진동 반응으로 점자 블록 보행 감각을 직접 전달
+
+**[상세 개발 문서 & 프로젝트 보고서](./docs/2024_vrrepo_gdd.md)**  
+**[시연 영상 (YouTube)](https://youtu.be/yPFpLxnLda4)**
 
 </details>
 
