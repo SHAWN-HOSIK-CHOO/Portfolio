@@ -28,7 +28,8 @@
 <br>
 
 ### Crash
-![Crash 게임 대표 이미지](./assets/crash_demo.gif)
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/535b0ad8-676e-4085-9060-1d9765f0719d" />
+<img width="400" height="233" alt="Image" src="https://github.com/user-attachments/assets/f24ed6e0-8710-4c61-a79c-de88406a5dc4" />
 
 * **한 줄 소개:** 스케이트보드를 타고 속도와 질량을 키워 상대를 격파하는 2인 실시간 멀티플레이 결투 게임
 * **장르 / 플랫폼:** 2인 온라인 배틀 액션 / PC
