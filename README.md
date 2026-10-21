@@ -100,6 +100,7 @@
 - **장르 / 플랫폼:** VR 체험 시뮬레이션 / Meta Quest 2
 - **사용 엔진 / 기술:** Unity, Meta Quest SDK, Haptic Feedback, Spatial Audio
 - **담당 역할:** 퀘스트 및 시스템 기획, 프로그래밍
+- **개발 인원:** 3인
 - **주요 특징:**
   - **체험형 게이미피케이션:** 제한 시간 내 이동, 보행자 충돌 회피 등 목표 제시를 통해 높은 몰입감 형성
   - **청각 기반 상황 판단 (Spatial Audio):** 신호등이 고장 난 횡단보도 등 제한된 시야 조건에서 차량 소리만으로 정차 여부를 판별하도록 유도
@@ -111,10 +112,13 @@
 ---
 
 ### Aquiet
+<img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/6ae6b5f9-5a8e-4cd2-9e2b-ea9d1d797da3" />
+<img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/949d78a1-ca82-4570-a3ef-203ab1eec9ca" />
 - **한 줄 소개:** Face Tracking 기술과 수집형 게이미피케이션을 결합해 지속적인 명상 습관 형성을 돕는 모바일 AR 앱
 - **장르 / 플랫폼:** AR 명상 & 게이미피케이션 / Mobile
 - **사용 엔진 / 기술:** Unity, Unity AR Foundation (Face Tracking)
-- **담당 역할:** [담당 역할 입력]
+- **담당 역할:** 물고기 수집 시스템 기획 / 프로그래밍 / UI 디자인
+- **개발 인원:** 3인
 - **주요 특징:**
   - **자가진단 & 명상 세션:** 사용자 자가진단 완료 후 5분간의 AR 명상 환경 제공
   - **Face Tracking 기반 집중도 측정:** 트래킹 기술을 통해 5분간 가만히 유지한 정도를 감지하고 화면에 물이 차오르는 시각적 피드백 전달
