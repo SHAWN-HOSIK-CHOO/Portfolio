@@ -43,7 +43,6 @@
   - **실시간 네트워크:** Unity Relay 기반 2인 대전 환경 구축
 
 **[상세 게임 개발 문서 (GDD & Tech Spec)](./docs/2025_crash_gdd.md)**  
-**[시연 영상 (YouTube)](#)**
 
 ---
 
@@ -87,8 +86,7 @@
   - **타이밍 기반 랭크 전투 시스템:** 공격 시 기를 모으는 원형 이펙트 타임에 맞춰 정교하게 입력할 경우 D~S 까지 랭크 상승, S 랭크 달성 시 강력한 일반 공격 발동
 
 **[상세 게임 개발 문서 (GDD & Tech Spec)](./docs/2024_wonderland_gdd.md)**
-
-**[상세 개발 문서](./docs/2024_project_gdd.md)**
+**[시연 영상 (YouTube)](https://youtu.be/sKflh7oV4LU)**
 
 </details>
 
