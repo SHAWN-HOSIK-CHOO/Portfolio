@@ -76,6 +76,7 @@
 
 ### Escape The Wonderland
 <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/0c0cca39-7d0d-457f-b860-a652a27e127c" />
+<img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/f93e1037-b2ad-4c7a-822a-26c688f19037" />
 
 - **한 줄 소개:** PCG 기반의 무작위 던전을 탐험하며 타이밍 기반 랭크 시스템으로 전투를 펼치는 2D 던전 탐험 RPG
 - **장르 / 플랫폼:** 2D Dungeon Crawler RPG / PC
