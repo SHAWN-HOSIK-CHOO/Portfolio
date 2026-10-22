@@ -25,8 +25,8 @@
 
 **[기획서: 세계관 및 서사 구조](./Docs/P1_Concept.md)**  
 **[기획서: 전투 및 스킬 시스템](./Docs/P1_Battle.md)**  
-**[기획서: 에이전트 융합 시스템](./Docs/P1_Fusion.md)**
-**[기획서: 스테이지 시스템](./Docs/P1_Stage.md)**
+**[기획서: 에이전트 융합 시스템](./Docs/P1_Fusion.md)**  
+**[기획서: 스테이지 시스템](./Docs/P1_Stage.md)**  
 **[시연 영상 (YouTube)](#)**
 
 </details>
