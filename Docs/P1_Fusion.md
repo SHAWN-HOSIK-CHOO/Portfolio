@@ -9,7 +9,7 @@
 
 ### 2.1 융합 연출
 * **파형 변화**: 플레이어가 생성기 UI에 재료를 드롭하는 순간 합성기의 파형이 변화한다.
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/342cc546-bf52-4a9f-ac04-da5ccdb9c31d" />
+<img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/342cc546-bf52-4a9f-ac04-da5ccdb9c31d" />
 
 ### 2.1 융합 재료 및 결과
 * **재료 구성**: 플레이어가 보유한 **[에이전트], [스킬카드], [아이템]** 중 총 **3개**를 자유롭게 선택
