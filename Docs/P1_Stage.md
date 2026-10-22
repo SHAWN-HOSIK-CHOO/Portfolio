@@ -35,7 +35,8 @@
 * **3차 사이클**: 보스급 1체 + 중간급 4체 + 일반급 6체 (총 11체) 순차 처치 ➔ 기믹`<인지 과부하 노드 LV3>` 등장 및 파괴 ➔ 최종 클리어.
   * *기믹 스탯*: LV1 노드 대비 체력, 물리/감정 방어력, 데미지 캡 **최소 2.25배** 상승.
 
-### 11.5 <인지 과부하 노드 (Cognitive Overdrive Node)> 기믹 및 보상 규칙
+### 11.5 <인지 과부하 노드 (Cognitive Overdrive Node)> 기믹 및 보상 규칙  
+<img width="400" height="164" alt="Image" src="https://github.com/user-attachments/assets/36163135-d4e7-4672-9e27-386ddb883c94" />
 
 * **오브젝트 성격**: 공격 및 이동을 하지 않는 Static 기믹 오브젝트.
 * **보유 스탯**: `MaxHealth`, `PhysicsDefense`, `EmoDefense`, `DamageCap`
@@ -77,4 +78,25 @@
     ],
     "ClearRewardKey": "REWARD_STAGE_01"
   }
+```
+
+## 13. 'SequenceInfo.json' 데이터 테이블 구조 정의  
+후보 스테이지들(CandidateStageKeys) 중에서 조건에 따라(선행 퀘스트, 날씨, 게임 세계관 속의 여론) 혹은 랜덤으로 스테이지를 선택함  
+```json
+[
+  {
+    "Name": "SEQ_CHAPTER_01",
+    "SequenceDisplayName": "제 1 인지 방역 구역 조사",
+    "StagePools": [
+      {
+        "StageIndex": 1,
+        "CandidateStageKeys": ["DEATH_00","DEATH_01"]
+      },
+      {
+        "StageIndex": 2,
+        "CandidateStageKeys": ["STEAMPUNK_00","DEATH_04"]
+      }
+    ]
+  }
+]
 ```
