@@ -145,6 +145,6 @@
 ---
 
 ## Tech Stack
-- **Engines & Hardware:** Unreal Engine 5.6, Unity 6, Unity AR Foundation, Meta Quest 2
-- **Networking & ML:** Unity Relay, Unity NGO, Teachable Machine
-- **Languages:** C#, C++, Blueprints
+- **Engines & Hardware:** Unreal Engine 5.6, Unity 6, Unity AR Foundation, Unity XR
+- **Networking:** Unity Relay, Unity NGO
+- **Languages:** C, C#, C++, Blueprints
