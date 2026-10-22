@@ -30,7 +30,11 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 
 - **감정 강도 비율 ($I_i$)**: 현재 축적된 감정 포인트(EP)를 한계치 대비 비율로 정규화
     
-    $$I_i = \frac{\text{EP}_i}{\text{EP}_{\text{Max}}} \quad (\text{단, } \text{EP}_{\text{Max}} = 2000)$$
+    $$
+    I_i = \frac{EP_i}{EP_{\max}}
+    $$
+
+    단, $EP_{\max} = 2000$이다.
 
 - **파라미터 보정 합산량 ($\Delta W_{\text{total}}$)**: 각 감정의 강도($I_i$)와 테이블의 파라미터별 보정치($\Delta W_{i, \text{param}}$)를 곱하여 합산 
     
