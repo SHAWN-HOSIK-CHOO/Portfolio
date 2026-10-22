@@ -13,7 +13,7 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 ```
 스킬 장착 예시  
 <img width="400" height="169" alt="Image" src="https://github.com/user-attachments/assets/482033a5-1a53-403c-8c08-e060392849c5" />  
-강공격에는 원거리 스킬을, 패링 스킬(성공시 작동)에는 공격력Up 버프를 장착한 모습
+강공격에는 원거리 스킬을, 패링 스킬(성공시 작동)에는 공격력Up 버프를 장착한 모습  
 <img width="400" height="169" alt="Image" src="https://github.com/user-attachments/assets/b8e8ae69-8bd1-4dac-aea2-faef88b3bcc4" />
 
 ## 2. 에이전트(Agent) 인지 상태 정의
