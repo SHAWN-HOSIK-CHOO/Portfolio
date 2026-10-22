@@ -13,7 +13,7 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 ```
 스킬 장착 예시  
 <img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/3fff24cc-a874-4ba4-b1d2-356c06b48ac4" />
-<img width="550" height="400" alt="Image" src="https://github.com/user-attachments/assets/77f923ba-c9d7-4d65-814f-543bcba60d95" />
+<img width="400" height="169" alt="Image" src="https://github.com/user-attachments/assets/482033a5-1a53-403c-8c08-e060392849c5" />
 
 ## 2. 에이전트(Agent) 인지 상태 정의
 
