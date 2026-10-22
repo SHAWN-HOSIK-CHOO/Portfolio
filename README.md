@@ -11,7 +11,8 @@
 
 ### MageNet (개발 중)  
 <img width="400" height="210" alt="Image" src="https://github.com/user-attachments/assets/4bc2141d-2d70-4e4f-9630-457320f4aad6" />
-<img width="400" height="210" alt="Image" src="https://github.com/user-attachments/assets/6bbb7c8a-3940-4369-858a-a09622bf9465" />  
+<img width="400" height="210" alt="Image" src="https://github.com/user-attachments/assets/6bbb7c8a-3940-4369-858a-a09622bf9465" />
+<img width="400" height="210" alt="Image" src="https://github.com/user-attachments/assets/7fb85bd5-bac7-484c-944d-9ac98a3d34d9" />  
   
 - **한 줄 소개:** 약·강공 / 패링 / 액티브 슬롯의 자유로운 스킬 조합과 3체의 에이전트 융합을 통해 나만의 전투 스타일을 설계하는 3D 액션 RPG
 - **장르 / 플랫폼:** 멀티플레이 3D 액션 RPG / PC (패드 지원)
