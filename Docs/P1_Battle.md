@@ -205,6 +205,9 @@ UI연출, VFX, SFX를 동원해 **엔진에 연료를 태운다**는 느낌을 �
   * **Surprise**: 랜덤 CC기 부여
   * **Anger**: 버프 효율 증폭
   * **Disgust**: 타격 성공 시 DoT 피해 (3초간 1초마다 최대체력 비례 데미지)
+ 예시) "Surprise" 지배적 감정상태에서 DelightShoot으로 바뀐 JoyShoot 스킬 (외형적으로는 색이 바뀜 Joy F9E04CFF 와 Surprise FF00FFFF가 동일 비율로 섞임)
+<img width="400" height="209" alt="Image" src="https://github.com/user-attachments/assets/eb791df4-779b-4be2-af20-34c1ff4f73d8" />
+
 
 ---
 
