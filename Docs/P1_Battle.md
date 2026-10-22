@@ -29,28 +29,28 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 ### 가중치 및 수치 연산식
 
 - **감정 강도 비율 ($I_i$)**: 현재 축적된 감정 포인트(EP)를 한계치 대비 비율로 정규화
-  
-  $$I_i = \frac{\text{EP}_i}{\text{EP}_{\text{Max}}} \quad (\text{단, } \text{EP}_{\text{Max}} = 2000)$$
+    
+    $$I_i = \frac{\text{EP}_i}{\text{EP}_{\text{Max}}} \quad (\text{단, } \text{EP}_{\text{Max}} = 2000)$$
 
 - **파라미터 보정 합산량 ($\Delta W_{\text{total}}$)**: 각 감정의 강도($I_i$)와 테이블의 파라미터별 보정치($\Delta W_{i, \text{param}}$)를 곱하여 합산
-  
-  \Delta W_{\text{total}} = \sum_{i=1}^{m} \left( I_i \times \Delta W_{i, \text{param}} \right)
+    
+    $$\Delta W_{\text{total}} = \sum_{i=1}^{m} \left( I_i \times \Delta W_{i, \text{param}} \right)$$
 
 - **가중치 보정식 ($E_{\text{Modifier}}$)**:
-  
-  E_{\text{Modifier}} = \text{Clamp}\left(1.0 + \Delta W_{\text{total}}, \; 0.1, \; 2.5\right)
-  
-  *(※ 감정 중첩 시 가중치가 음수 이하로 떨어지거나 과도하게 폭증하는 현상을 방지하기 위해 최소 0.1 ~ 최대 2.5 범위로 정규화. 단, 지배적 감정 진입 시 상한 3.0으로 확장)*
+    
+    $$E_{\text{Modifier}} = \text{Clamp}\left(1.0 + \Delta W_{\text{total}}, \; 0.1, \; 2.5\right)$$
+    
+    *(※ 감정 중첩 시 가중치가 음수 이하로 떨어지거나 과도하게 폭증하는 현상을 방지하기 위해 최소 0.1 ~ 최대 2.5 범위로 정규화. 단, 지배적 감정 진입 시 상한 3.0으로 확장)*
 
 - **행동별 최종 가중치 ($W_{\text{final}}$)**:
-  
-  W_{\text{final}} = W_{\text{base}} \times E_{\text{Modifier}} \times M_{\text{Dominant}}
-  
-  *(※ 일반 상태: $M_{\text{Dominant}} = 1.0$, 지배적 감정 폭주 상태: $M_{\text{Dominant}} = 1.5$)*
+    
+    $$W_{\text{final}} = W_{\text{base}} \times E_{\text{Modifier}} \times M_{\text{Dominant}}$$
+    
+    *(※ 일반 상태: $M_{\text{Dominant}} = 1.0$, 지배적 감정 폭주 상태: $M_{\text{Dominant}} = 1.5$)*
 
 - **행동 선택 확률 ($P(\text{Action}_k)$)**: 전체 후보 행동($N$) 간 확률 분포 정규화
-  
-  P(\text{Action}_k) = \frac{W_{\text{final}, k}}{\sum_{j=1}^{N} W_{\text{final}, j}}
+    
+    $$P(\text{Action}_k) = \frac{W_{\text{final}, k}}{\sum_{j=1}^{N} W_{\text{final}, j}}$$
 
 ### 지배적 감정 진입 조건
 
