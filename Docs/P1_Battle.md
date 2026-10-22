@@ -32,7 +32,7 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
     
     $$I_i = \frac{\text{EP}_i}{\text{EP}_{\text{Max}}} \quad (\text{단, } \text{EP}_{\text{Max}} = 2000)$$
 
-- **파라미터 보정 합산량 ($\Delta W_{\text{total}}$)**: 각 감정의 강도($I_i$)와 테이블의 파라미터별 보정치($\Delta W_{i, \text{param}}$)를 곱하여 합산
+- **파라미터 보정 합산량 ($\Delta W_{\text{total}}$)**: 각 감정의 강도($I_i$)와 테이블의 파라미터별 보정치($\Delta W_{i, \text{param}}$)를 곱하여 합산 
     
     $$\Delta W_{\text{total}} = \sum_{i=1}^{m} \left( I_i \times \Delta W_{i, \text{param}} \right)$$
 
