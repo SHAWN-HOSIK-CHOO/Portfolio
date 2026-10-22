@@ -45,8 +45,8 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 - **가중치 보정식 (`E_Modifier`)**:
 
   ```math
-  E_{\text{Modifier}} = \operatorname{Clamp}\left(1.0 + \Delta W_{\text{total}},\, 0.1,\, 2.5\right)
-  ```
+  E_{\text{Modifier}} = \text{Clamp}\left(1.0 + \Delta W_{\text{total}},\, 0.1,\, 2.5\right)
+   ```
 
   ※ 감정 중첩 시 가중치가 음수 이하로 떨어지거나 과도하게 폭증하는 현상을 방지하기 위해 최소 0.1 ~ 최대 2.5 범위로 제한한다. 단, 지배적 감정 진입 시 상한을 3.0으로 확장한다.
 
