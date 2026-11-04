@@ -205,6 +205,9 @@ UI연출, VFX, SFX를 동원해 **엔진에 연료를 태운다**는 느낌을 �
   * **Surprise**: 랜덤 CC기 부여
   * **Anger**: 버프 효율 증폭
   * **Disgust**: 타격 성공 시 DoT 피해 (3초간 1초마다 최대체력 비례 데미지)
+* **혼합 감정 특징 승계**: 혼합 스킬은 두 감정의 고유 특징을 동시에 가진다.
+  * *예시 1 (Delight = Joy + Anticipation)*: Joy의 특징(DamagePercentagePlus 적용)과 Anticipation의 특징(크리티컬 확률 -10%, 크리티컬 데미지 +25%)이 동시에 적용됨.
+  * *예시 2 (Love = Joy + Trust)*: Joy와 Trust의 특징이 동시에 적용됨.
     
  ### 예시) "Surprise" 지배적 감정상태에서 DelightShoot으로 바뀐 JoyShoot 스킬  
  (외형적으로는 색이 바뀜 Joy F9E04CFF 와 Surprise FF00FFFF가 동일 비율로 섞임)  
