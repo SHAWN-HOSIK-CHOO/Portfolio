@@ -61,7 +61,7 @@
 ## 12. 스테이지 기믹 (Stage Gimmicks)
 
 ### 12.1 <인지 과부하 노드 (Cognitive Overdrive Node)>
-<img width="400" height="164" alt="Image" src="https://github.com/user-attachments/assets/36163135-d4e7-4672-9e27-386ddb883c94" />
+<img width="400" height="164" alt="Image" src="https://github.com/user-attachments/assets/36163135-d4e7-4672-9e27-386ddb883c94" />  
 * **오브젝트 성격**: 공격 및 이동을 하지 않는 Static 기믹 오브젝트.
 * **보유 스탯**: `MaxHealth`, `PhysicsDefense`, `EmoDefense`, `DamageCap`
 * **데미지 캡 및 방어 연산 로직**:
