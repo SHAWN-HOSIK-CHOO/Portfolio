@@ -19,7 +19,7 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 
 강공격에는 원거리 스킬을, 패링 스킬(성공시 작동)에는 공격력Up 버프를 장착한 모습
 
-<img width="400" height="169" alt="Image" src="https://github.com/user-attachments/assets/f14d24b6-9ef2-4404-8860-dc9cef203a6a" />
+<img width="400" height="224" alt="HATT" src="https://github.com/user-attachments/assets/88ba931d-6ef1-48d9-82c8-98dd7fe3d00e" />
 
 ---
 
