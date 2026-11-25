@@ -56,7 +56,7 @@
 ---
 
 ## 5. 융합 파형(오실로스코프) 연출 시스템
-<img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/342cc546-bf52-4a9f-ac04-da5ccdb9c31d" />
+<img width="400" height="226" alt="Image" src="https://github.com/user-attachments/assets/342cc546-bf52-4a9f-ac04-da5ccdb9c31d" />
 <img width="400" height="226" alt="FUSION" src="https://github.com/user-attachments/assets/c4a738b9-137a-418f-a36d-742164797f3b" />
 
 ### 5.1 연출 개요 및 레이어 구조
