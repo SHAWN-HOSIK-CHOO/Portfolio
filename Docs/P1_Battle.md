@@ -16,7 +16,7 @@ ex. 타격할 때마다 체력을 회복해주는 약공격 1타에는 SurpriesS
 <img width="400" height="169" alt="Image" src="https://github.com/user-attachments/assets/482033a5-1a53-403c-8c08-e060392849c5" />  
 강공격에는 원거리 스킬을, 패링 스킬(성공시 작동)에는 공격력Up 버프를 장착한 모습  
 <img width="400" height="169" alt="Image" src="https://github.com/user-attachments/assets/fbe15467-366a-4cf8-ab67-6fa06ee46fb4" />
-
+<img width =400" height="169" alt="Image" src="https://github.com/user-attachments/assets/fbe15467-366a-4cf8-ab67-6fa06ee46fb4" />
 ---
 
 ## 2. 플레이어, 에이전트 공통 - 감정 점수 누적 패시브 (Passive Stat Boost)
